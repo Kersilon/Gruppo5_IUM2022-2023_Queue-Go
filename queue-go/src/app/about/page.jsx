@@ -36,9 +36,9 @@ const About = () => {
         <div className={styles.item}>
           <h1 className={styles.title}> Qual è lo scopo della web-app? </h1>
           <p className={styles.desc}>
-           Queue&Go è progettata per semplificare e migliorare la gestione delle code nelle varie attività commerciali e istituzioni, tra cui ristoranti, ospedali e molte altre.  Il nostro sito consente agli utenti di prenotare, monitorare e gestire il loro posto in coda in maniera efficace e intuitiva, offrendo un controllo senza precedenti sull&apos;esperienza d&apos;attesa. <br/>
-           Per i gestori delle attività, Queue&Go offre un metodo innovativo e efficiente per organizzare e gestire le code, migliorando il flusso di clienti e minimizzando l&apos;insoddisfazione che può derivare da lunghe attese. <br/>
-           <br/>Ci impegniamo a trasformare l&apos;attesa, spesso vista come un fastidio, in un processo fluido e controllato, risparmiando tempo prezioso sia ai clienti che ai fornitori di servizi.
+           Queue&Go è progettata per semplificare e migliorare la gestione delle code nelle varie attività commerciali e istituzioni, tra cui ristoranti, ospedali e molte altre. Il nostro sito consente agli utenti di prenotare, monitorare e gestire il loro posto in coda in maniera efficace e intuitiva, offrendo un controllo senza precedenti sull'esperienza d'attesa. <br/>
+           Per i gestori delle attività, Queue&Go offre un metodo innovativo e efficiente per organizzare e gestire le code, migliorando il flusso di clienti e minimizzando l'insoddisfazione che può derivare da lunghe attese. <br/>
+           <br/>Ci impegniamo a trasformare l'attesa, spesso vista come un fastidio, in un processo fluido e controllato, risparmiando tempo prezioso sia ai clienti che ai fornitori di servizi.
           </p>
         </div> 
       </div>
